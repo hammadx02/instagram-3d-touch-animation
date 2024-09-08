@@ -159,7 +159,7 @@ class _InstagramSearchTabState extends State<InstagramSearchTab>
             child: Stack(
               children: [
                 Padding(
-                  padding: const EdgeInsets.only(top: 55.0, bottom: 55.0),
+                  padding: const EdgeInsets.only(top: 50.0, bottom: 55.0),
                   child: GridView.builder(
                     physics: BouncingScrollPhysics(
                         parent: AlwaysScrollableScrollPhysics()),
