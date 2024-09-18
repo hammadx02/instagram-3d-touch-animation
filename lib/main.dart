@@ -6,7 +6,7 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      // title: 'Instagram 3d touch animation',
+      title: 'Instagram 3d touch animation',
       home: InstagramSearchTab(),
     ),
   );
